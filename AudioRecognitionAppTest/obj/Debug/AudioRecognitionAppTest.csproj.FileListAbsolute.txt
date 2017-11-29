@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionAppTest\bin\Debug\AudioRecognitionAppTest.dll
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionAppTest\bin\Debug\AudioRecognitionAppTest.pdb
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionAppTest\bin\Debug\AudioRecognitionApp.exe
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionAppTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionAppTest\bin\Debug\NAudio.dll
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionAppTest\bin\Debug\AudioRecognitionApp.pdb
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionAppTest\bin\Debug\NAudio.xml
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionAppTest\obj\Debug\AudioRecognitionAppTest.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionAppTest\obj\Debug\AudioRecognitionAppTest.dll
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionAppTest\obj\Debug\AudioRecognitionAppTest.pdb

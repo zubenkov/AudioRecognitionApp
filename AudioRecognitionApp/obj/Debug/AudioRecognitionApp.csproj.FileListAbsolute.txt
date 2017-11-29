@@ -1,0 +1,34 @@
+c:\users\tatiana\documents\visual studio 2015\Projects\AudioRecognitionApp\AudioRecognitionApp\bin\Debug\AudioRecognitionApp.exe.config
+c:\users\tatiana\documents\visual studio 2015\Projects\AudioRecognitionApp\AudioRecognitionApp\bin\Debug\AudioRecognitionApp.exe
+c:\users\tatiana\documents\visual studio 2015\Projects\AudioRecognitionApp\AudioRecognitionApp\bin\Debug\AudioRecognitionApp.pdb
+c:\users\tatiana\documents\visual studio 2015\Projects\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.csprojResolveAssemblyReference.cache
+c:\users\tatiana\documents\visual studio 2015\Projects\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.Properties.Resources.resources
+c:\users\tatiana\documents\visual studio 2015\Projects\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.csproj.GenerateResource.Cache
+c:\users\tatiana\documents\visual studio 2015\Projects\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.exe
+c:\users\tatiana\documents\visual studio 2015\Projects\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.pdb
+c:\Users\Tatiana\Documents\Visual Studio 2015\Projects\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.MainWindow.resources
+c:\Users\Tatiana\Documents\Visual Studio 2015\Projects\AudioRecognitionApp\AudioRecognitionApp\bin\Debug\NAudio.dll
+c:\Users\Tatiana\Documents\Visual Studio 2015\Projects\AudioRecognitionApp\AudioRecognitionApp\bin\Debug\NAudio.xml
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionApp\bin\Debug\AudioRecognitionApp.exe.config
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.exe
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.pdb
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionApp\bin\Debug\AudioRecognitionApp.exe
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionApp\bin\Debug\AudioRecognitionApp.pdb
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionApp\bin\Debug\NAudio.xml
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.MainWindow.resources
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.Properties.Resources.resources
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.ChartForm.resources
+D:\Диплом\AudioRecognitionApp\AudioRecognitionApp\bin\Debug\AudioRecognitionApp.exe.config
+D:\Диплом\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.exe
+D:\Диплом\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.pdb
+D:\Диплом\AudioRecognitionApp\AudioRecognitionApp\bin\Debug\AudioRecognitionApp.exe
+D:\Диплом\AudioRecognitionApp\AudioRecognitionApp\bin\Debug\AudioRecognitionApp.pdb
+D:\Диплом\AudioRecognitionApp\AudioRecognitionApp\bin\Debug\NAudio.xml
+D:\Диплом\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.csprojResolveAssemblyReference.cache
+D:\Диплом\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.ChartForm.resources
+D:\Диплом\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.MainWindow.resources
+D:\Диплом\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.Properties.Resources.resources
+D:\Диплом\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.csproj.GenerateResource.Cache
+D:\Диплом\AudioRecognitionApp\AudioRecognitionApp\obj\Debug\AudioRecognitionApp.csproj.CoreCompileInputs.cache
